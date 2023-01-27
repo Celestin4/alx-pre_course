@@ -1,1 +1,2 @@
-touch
+git stash 
+git pull origin
