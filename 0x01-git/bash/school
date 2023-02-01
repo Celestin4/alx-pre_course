@@ -1,7 +1,2 @@
-HEAD
-#!/bin/bash
-
-echo "The school is open!
-
 echo "School"
-
+echo "The school is open!"
